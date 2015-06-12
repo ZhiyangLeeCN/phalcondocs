@@ -273,7 +273,7 @@ Bootstrap
     }
 
 The empty index action gives the clean pass to a view with the form definition:
-视图文件内容 (app/views/sigup/index.phtml)
+视图文件内容 (app/views/signup/index.phtml)
 
 .. code-block:: html+php
 
